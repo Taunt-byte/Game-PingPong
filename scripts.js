@@ -11,10 +11,7 @@ canvas.width = width;
 canvas.height = height;
 let contexto = canvas.getContext("2d");
 
-window.onload = function(){
-    document.body.appendChild(canvas);
-    animacao(step);
-};
+
 //Atualizar todos os objetos;
 //Renderizar os objetos;
 //Utilizar a recursão, chamando a função step novamente.
