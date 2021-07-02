@@ -2,8 +2,10 @@
 
 Status: Pronto
 
-## O que é esse projeto ?-
-+ é  um projeto de clone do famoso jogo Ping Pong.
+## Sobre o Projeto
++ É um projeto que busca refazer o classico jogo Ping Pong.
++ Esse projeto foi sugerido por um amigo e seu objetivo era mostrar o elemento canvas em ação.
++ Foi realizado em 02/07/2021.
 
 ## Tecnologias
 <table>
